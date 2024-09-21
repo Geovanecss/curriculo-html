@@ -1,0 +1,25 @@
+#apresentacao {
+    text-align: center;
+}
+
+iframe {
+width: 100%;
+height: 200px;
+}
+
+.botoes {
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+#center {
+    text-align: center;
+}
+
+body, h2 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
